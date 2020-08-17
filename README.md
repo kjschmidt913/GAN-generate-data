@@ -4,4 +4,5 @@ We used GANs to generate new data from an existing dataset for data augmentation
 
 Our approach is based on the paper [Data Augmentation Using GANs](https://arxiv.org/abs/1904.09135) by Fabio Henrique K. dos S. Tanaka.
 <br><br>
-You can read about our experiments and results on [Medium](https://medium.com/swlh/generating-a-dataset-with-gans-1e994ff633fd).
+## Wanna know what we found?
+You can [read about our experiments and results](https://medium.com/swlh/generating-a-dataset-with-gans-1e994ff633fd) on Medium.
