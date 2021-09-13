@@ -1,0 +1,7 @@
+Discriminator error: tensor(1.3822, grad_fn=<AddBackward0>)
+Generator error: tensor(0.7395, grad_fn=<BinaryCrossEntropyBackward>)
+Points: tensor([[0.1654, 0.5646, 0.6096, 0.0941, 0.2483, 0.4189, 0.1419, 0.1709, 0.1290],
+        [0.1632, 0.5954, 0.6125, 0.1404, 0.2448, 0.4119, 0.0970, 0.2839, 0.2875]],
+       grad_fn=<AddmmBackward>)
+
+
